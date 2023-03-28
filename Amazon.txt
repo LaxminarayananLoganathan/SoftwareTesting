@@ -1,0 +1,11 @@
+Amazon
+
+Choose:Mobile
+
+brand:Nokia
+
+Price:10000
+
+Date:30/07/2023
+
+Attached (image, Video) code
